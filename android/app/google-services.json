@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88394339315",
+    "project_id": "food-potato-app",
+    "storage_bucket": "food-potato-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88394339315:android:dbe40f64959105023c7886",
+        "android_client_info": {
+          "package_name": "com.example.foodpanda_seller_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88394339315-pu6hih6t0465k0452b7jmts5gcuoouhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq8YxyuUFwh5OMsGmQwlL6L-vwa1td0xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88394339315-pu6hih6t0465k0452b7jmts5gcuoouhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
